@@ -58,7 +58,7 @@ To use this project, the following software tools are required:
 - **Power BI Desktop** for creating and viewing the Power BI dashboard and reports.
 
 ## Visualization in PowerBI
-![powerbi visualization]()
+![powerbi visualization](PowerBI Dashboard.png)
 
 
 
