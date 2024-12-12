@@ -46,19 +46,15 @@ This project includes several visualizations to explore and present the findings
 - **Bar Chart**: Shows the total CO2 emissions by country for a selected year.
 - **Line Chart**: Illustrates the trends in CO2 emissions from 1950 to 2021, highlighting significant changes over time.
 
+## Visualization in PowerBI
+![Power BI Visualization](PowerBI%20Dashboard.png)
+
+## Visualization in Tableau
+![Tableau Visualization](Tableau%20Dashboard.png)
+
 ## Key Insights
 - **Top CO2 Emitters**: Countries like **China**, **United States**, and **India** are among the largest contributors to global CO2 emissions.
 - **Per Capita Emissions**: Some countries with smaller populations, such as **Qatar** and **Kuwait**, have disproportionately high per capita emissions, highlighting the need for targeted emission reduction strategies.
 - **Trends Over Time**: Over the decades, global CO2 emissions have seen sharp increases, especially after 2000, largely driven by industrialization and energy consumption in emerging economies.
-
-## Requirements
-To use this project, the following software tools are required:
-- **Microsoft SQL Server** for executing the SQL queries and data cleaning process.
-- **Tableau Desktop** for visualizing and exploring the data through interactive charts and maps.
-- **Power BI Desktop** for creating and viewing the Power BI dashboard and reports.
-
-## Visualization in PowerBI
-![powerbi visualization](PowerBI Dashboard.png)
-
 
 
